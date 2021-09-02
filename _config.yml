@@ -13,14 +13,15 @@
 
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
+#remote_theme: nfthypetrain/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/NFT" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+title      : NFT Hype Train
+email      : NftHypeTrain@gmail.com #this is also the email contact forms will go to
+description: "The age of the NFT has begun. Join us as we make history! Start by entering our FREE raffle, be a part of the NFT Hype Train!"
+author     : NFT Hype Train
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
